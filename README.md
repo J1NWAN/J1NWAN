@@ -1,22 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+<a href="https://github.com/j1nwan"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://j1nwan.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="weamicron@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<br>
 
-<!--
-**J1NWAN/J1NWAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Jinwan Jeon!
 
-Here are some ideas to get you started:
+I am a university student from South Korea 🇰🇷. I am putting together my portfolio.
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I am constantly studying.<br>
+📝I regularly write articles on my blog.
+<br><br>
+
+### 🖥 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>
-
-<a href="https://j1nwan.github.io" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="weamicron@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
