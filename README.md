@@ -9,8 +9,8 @@
 I am a university student from South Korea 🇰🇷. I am putting together my portfolio.
 <br><br>
 
-🔭 I am constantly studying.<br>
-📝I regularly write articles on my blog.
+- 🔭 I am constantly studying.<br>
+- 📝 I regularly write articles on my blog.
 <br><br>
 
 ### 🖥 Stack
