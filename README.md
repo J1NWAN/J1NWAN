@@ -15,9 +15,14 @@ I am a university student from South Korea 🇰🇷. I am putting together my po
 
 ### 🖥 Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <br><br>
+
+### 🔧 Setting
+<img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 ## Github Stats
 [![Jinwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=J1NWAN&show_icons=true&theme=dracula)
