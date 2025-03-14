@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20J1NWAN%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 ## Hi there 👋
 <a href="https://github.com/j1nwan"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/></a>
